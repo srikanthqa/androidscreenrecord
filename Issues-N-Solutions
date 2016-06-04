@@ -1,0 +1,2 @@
+Issue 1: When trying to run the adb commands through Eclipse (in Mac OS), observed the error "cannot run program adb error=2 no such file or directory"
+Solution: Try to run the Eclipse from the Terminal (that will help map all the environment variables and Path env variable to the eclipse), thus allowing to run the adb commands independently. 
